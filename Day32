@@ -13,8 +13,7 @@ Explanation: 2 occurs 4 times in the
 given array.
 */
 import java.util.Scanner;
-
-public class Any {
+public class FindOccurences {
 	
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
